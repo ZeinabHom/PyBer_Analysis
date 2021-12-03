@@ -60,6 +60,9 @@ In this part, we use object-oriented method to create line chart for each city t
 
 ![PyBer_fare_summary]("analysis/PyBer_fare_summary.png"?raw=true )
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/91231253/144645132-3a1eb977-df66-4b9a-bed4-264159ffadaa.png)
+
+
 the below code is used to create the chart;
 
 	 - plt.style.use('fivethirtyeight')
